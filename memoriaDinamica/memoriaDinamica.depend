@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571756510 source:e:\clase_14\memoriadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Persona.h"
+
+1571757570 e:\clase_14\memoriadinamica\persona.h
+	<stdio.h>
+	<stdlib.h>
+
+1571757570 source:e:\clase_14\memoriadinamica\persona.c
+	"Persona.h"
+
